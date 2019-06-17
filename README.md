@@ -6,3 +6,4 @@ A guide for work at Prefab Village.
 
 ## Table Of Contents
 
+- [Getting Started](https://github.com/prefabvillage/handbook/blob/master/getting-started.md)
