@@ -6,6 +6,6 @@ A guide for work at Prefab Village.
 
 ## Table Of Contents
 
-- [Getting Started](https://github.com/prefabvillage/handbook/blob/master/getting-started.md)
-- [Principles](https://github.com/prefabvillage/handbook/blob/master/principles.md)
-- [Vision](https://github.com/prefabvillage/handbook/blob/master/vision.md)
+- [Getting Started](getting-started.md)
+- [Principles](principles.md)
+- [Vision](vision.md)
