@@ -8,3 +8,4 @@ A guide for work at Prefab Village.
 
 - [Getting Started](https://github.com/prefabvillage/handbook/blob/master/getting-started.md)
 - [Principles](https://github.com/prefabvillage/handbook/blob/master/principles.md)
+- [Vision](https://github.com/prefabvillage/handbook/blob/master/vision.md)
